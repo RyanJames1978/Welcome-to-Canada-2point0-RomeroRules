@@ -90,7 +90,7 @@
 	<property name="AITarget-4" value="SetNearestCorpseAsTarget" param1="EntityPlayer"/>
 	<property name="AITarget-5" value="SetNearestEntityAsTarget" param1="EntityNPC"/>
 	<property name="AITarget-6" value="SetNearestEntityAsTarget" param1="EntityPlayer"/>
-	<property name="MaxHealth" value="1000000"/> <!-- Crazy Health -->
+	<property name="MaxHealth" value="100000"/> <!-- Crazy Health -->
 	<property name="MaxViewAngle" value="180"/>
 	<property name="HandItem" value="handZombie"/>
 	<property name="Weight" value="70"/>
@@ -138,9 +138,9 @@
 	<property name="DeadBodyHitPoints" value="150"/>
 	<property name="RootMotion" value="true"/>
 	<property name="HasDeathAnim" value="true"/>
-	<property name="HeadDismemberBaseChance" value="0.01"/>
-	<property name="HeadDismemberBonusChance" value="0.08"/>
-	<property name="HeadDismemberThreshold" value="0.23"/>
+	<property name="HeadDismemberBaseChance" value="0.25"/>
+	<property name="HeadDismemberBonusChance" value="0.35"/>
+	<property name="HeadDismemberThreshold" value="0.0001"/>
 	<property name="LowerLegDismemberThreshold" value="0.175"/>
 	<property name="LowerLegDismemberBaseChance" value="0"/>
 	<property name="LowerLegDismemberBonusChance" value="0.9"/>
