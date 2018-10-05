@@ -138,8 +138,8 @@
 	<property name="DeadBodyHitPoints" value="150"/>
 	<property name="RootMotion" value="true"/>
 	<property name="HasDeathAnim" value="true"/>
-	<property name="HeadDismemberBaseChance" value="0.25"/>
-	<property name="HeadDismemberBonusChance" value="0.35"/>
+	<property name="HeadDismemberBaseChance" value="0.22"/>
+	<property name="HeadDismemberBonusChance" value="0.32"/>
 	<property name="HeadDismemberThreshold" value="0.0001"/>
 	<property name="LowerLegDismemberThreshold" value="0.175"/>
 	<property name="LowerLegDismemberBaseChance" value="0"/>
