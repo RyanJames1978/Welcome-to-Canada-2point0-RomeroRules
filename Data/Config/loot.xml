@@ -1483,6 +1483,7 @@
 
 <lootgroup name="lumberjacks" count="1">
 	<!-- <item name="rjstoneaxe"/> -->
+	<item name="chainsaw"/>
 	<item name="fireaxeIron" prob="2"/>
 	<item group="rareTools"/>
 	<item name="grainAlcohol"/>
