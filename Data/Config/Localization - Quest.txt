@@ -45,34 +45,34 @@ RewardSkill_keyword,,Keywords,KgNone,Skill,Compétence,Fertigkeit,,Habilidad
 RewardSkillPoint_keyword,,Keywords,KgNone,Skill Point,Point de compétence,Fertigkeitspunkt,,Punto de habilidad
 requirementGroupFireaxe,,Requirement Group,KgNone,Holding Fire Axe,Tenir une hache de pompier,Feueraxt halten,,Sostener un hacha de incendio
 requirementGroupShotgun,,Requirement Group,KgNone,Holding Shotgun,Tenir un fusil à pompe,Schrotflinte halten,,Sostener una escopeta
-tutorialTipQuest01,,Popup Tip,KgNone,"Welcome to Canada! \n The good ole frozen north. \n In this mod I've tried to make building more realistic. Many of the items now have new recipes.. The workbench is your best friend and you'll use it for almost everything. Most of the items that you can place, including the workbench, you can destroy to pick them back up.",,,,
-tutorialTipQuest02,,Popup Tip,KgNone,"Survival in the Canadian Wilderness isn't easy, just ask Les Stroud. It's easy to get lost in thick woods, always check your compass and place markers on your map! FIRST thing you should do is PLACE AND OPEN YOUR SURVIVAL GEAR!!! It Will help keep you alive. After placing your workbench you will be rewarded with the Survival Machete",,,,
+tutorialTipQuest01,,Popup Tip,KgNone,"Welcome to Canada! \n Romero Edition \n This version of the mod requires that all zombies be killed by headshot. The zombies are slower than normal and can not run due to rigor mortis. If you haven't played the regular version of this mod, It's recomended that you try that first.",,,,
+tutorialTipQuest02,,Popup Tip,KgNone,"Due to the dynamic of how George A Romero's zombies behaved, this version of the mod focuses heavily on killing zombies. You will start with and be given, more and better weapons and items than you would in the normal mod. Please start by opening your starter crate, then proceed to dropping your advanced workbench.",,,,
 skillPointTip,,Popup Tip,EnChanged,"When you get your first Minibike, Remember that vehicles have a hard time starting in extremely cold weather. \n To start your minibike, \n Hop on and turn the light on. \n Then hop off while leaving the light on and count to 5. \n Now your minibike is warm. Hop back on and go go go!",,,,
 quest_BasicSurvival,,Quest Info,KgNone,Basic Survival,Les bases de la survie,Das 1x1 des Überlebens,,Supervivencia básica
 quest_BasicSurvival1,,Quest Info,Reordered,Basic Survival 1/8,Les bases de la survie 1/8,Das 1x1 des Überlebens 1/8,,Supervivencia básica 1/8
-quest_BasicSurvival1_subtitle,,Quest Info,Reordered,Place your workbench,,,,
+quest_BasicSurvival1_subtitle,,Quest Info,Reordered,Place your Advanced Workbench,,,,
 quest_BasicSurvival1_description,,Quest Info,Reordered,"Place your workbench anywhere you want. You can pick it up later by destroying it. ",,,,
 quest_BasicSurvival2,,Quest Info,Reordered,Basic Survival 2/8,Les bases de la survie 2/8,Das 1x1 des Überlebens 2/8,,Supervivencia básica 2/8
-quest_BasicSurvival2_subtitle,,Quest Info,Reordered,Craft a blue sleeping bag,,,,
-quest_BasicSurvival2_description,,Quest Info,Reordered,"Gather cotton plants from the ground, use them to craft cloth. Combine cloth and cotton to craft your sleeping bag. Move it to the tool belt and place it on the ground, afterwards you can pick it back up",,,,
+quest_BasicSurvival2_subtitle,,Quest Info,Reordered,Kill LumberJax Teller,,,,
+quest_BasicSurvival2_description,,Quest Info,Reordered,"Find and Kill LumberJax Teller",,,,
 quest_BasicSurvival3,,Quest Info,Reordered,Basic Survival 3/8,Les bases de la survie 3/8,Das 1x1 des Überlebens 3/8,,Supervivencia básica 3/8
-quest_BasicSurvival3_subtitle,,Quest Info,Reordered,Craft a Campfire,,,,
-quest_BasicSurvival3_description,,Quest Info,Reordered,"Gater some small stone and wood and create a fire. Having a fire is vital to surviving in the Canadian wilderness.",,,,
+quest_BasicSurvival3_subtitle,,Quest Info,Reordered,Kill R0C_7,,,,
+quest_BasicSurvival3_description,,Quest Info,Reordered,"Find and kill R0C_7",,,,
 quest_BasicSurvival4,,Quest Info,Reordered,Basic Survival 4/8,Les bases de la survie 4/8,Das 1x1 des Überlebens 4/8,,Supervivencia básica 4/8
-quest_BasicSurvival4_subtitle,,Quest Info,Reordered,Craft Tools in the Workbench,,,,
-quest_BasicSurvival4_description,,Quest Info,Reordered,"You've been given all the materials you need, Go to your workbench and create a Stone wood cutters axe, A stone Shovel, A stone pick axe, and a stone hammer.",,,,
+quest_BasicSurvival4_subtitle,,Quest Info,Reordered,Kill Dam Str8,,,,
+quest_BasicSurvival4_description,,Quest Info,Reordered,"Find and kill Dam Str8",,,,
 quest_BasicSurvival5,,Quest Info,Reordered,Basic Survival 5/8,Les bases de la survie 5/8,Das 1x1 des Überlebens 5/8,,Supervivencia básica 5/8
-quest_BasicSurvival5_subtitle,,Quest Info,Reordered,Gather Wood,,,,
-quest_BasicSurvival5_description,,Quest Info,Reordered,"Gather wood by attacking trees or bushes.",,,,
+quest_BasicSurvival5_subtitle,,Quest Info,Reordered,Kill an RCMP officer,,,,
+quest_BasicSurvival5_description,,Quest Info,Reordered,"Kill a cop.",,,,
 quest_BasicSurvival6,,Quest Info,Reordered,Basic Survival 6/8,Les bases de la survie 6/8,Das 1x1 des Überlebens 6/8,,Supervivencia básica 6/8
-quest_BasicSurvival6_subtitle,,Quest Info,Reordered,Start an Igloo,,,,
-quest_BasicSurvival6_description,,Quest Info,Reordered,"Gather some snow with your shovel and use it to form some snow blocks.",,,,
+quest_BasicSurvival6_subtitle,,Quest Info,Reordered,Kill an Angry Hockey Mom,,,,
+quest_BasicSurvival6_description,,Quest Info,Reordered,"Find and kill an Angry Hockey Mom.",,,,
 quest_BasicSurvival7,,Quest Info,Reordered,Basic Survival 7/8,Les bases de la survie 7/8,Das 1x1 des Überlebens 7/8,,Supervivencia básica 7/8
-quest_BasicSurvival7_subtitle,,Quest Info,Reordered,Kill Some Zombies,,,,
-quest_BasicSurvival7_description,,Quest Info,Reordered,"Now that you have a melee weapon, get out there and kill a few Zombies",,,,
+quest_BasicSurvival7_subtitle,,Quest Info,Reordered,Kill a Puck Bunny,,,,
+quest_BasicSurvival7_description,,Quest Info,Reordered,"Kill a Puck Bunny",,,,
 quest_BasicSurvival8,,Quest Info,KgNone,Basic Survival 8/8,Les bases de la survie 8/8,Das 1x1 des Überlebens 8/8,,Supervivencia básica 8/8
-quest_BasicSurvival8_subtitle,,Quest Info,KgNone,Go Hunting,,,,
-quest_BasicSurvival8_description,,Quest Info,KgNone,"Go out hunting and kill an animal, any animal. Look through the workbench and see what you need to get started. Then get out there and bring home some meat!",,,,
+quest_BasicSurvival8_subtitle,,Quest Info,KgNone,Kill 50 Zombies,,,,
+quest_BasicSurvival8_description,,Quest Info,KgNone,"Kill 50 zombies of any kind.",,,,
 quest_WhiteRiverCitizen,,Quest Info,KgNone,Explore Canada,Citoyen de la Rivière blanche,Bürger von White River,,Ciudadano de Río Blanco
 quest_WhiteRiverCitizen1,,Quest Info,KgNone,"Visit Stuff n' Things 1/1",,,,
 quest_WhiteRiverCitizen1_subtitle,,Quest Info,KgNone,"Find Stuff N' Things",,,,

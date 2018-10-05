@@ -2477,14 +2477,12 @@
 <!-- RJ Starter loot -->
 
 <lootgroup name="rjstarterloot" count="all">
-    <!-- <item name="nail" count="100"/> -->
-    <item name="padlock"/>
-    <item name="aloeCream" count="10"/>
-    <!-- <item name="macheteSurvival"/> -->
-    <item name="gunHuntingRifle"/>
-    <item name="762mmBullet" count="5"/>
-    <!-- <item name="crossbowSnow" count="1"/> -->
-    <item name="beer" count="6"/>
+    <item name="gunPistol" count="1"/>
+    <item name="gunHuntingRifle" count="1"/>
+    <item name="762mmBullet" count="100"/>
+    <item name="9mmBullet" count="50"/>
+    <item name="workbenchBook"/>
+	<item name="bladeSmithingBook"/>
     <item name="emptyJar" count="10"/>
     <item name="rjpoutine" count="3"/>
     <item name="pufferCoat" count="1"/>

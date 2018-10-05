@@ -6,20 +6,20 @@
 
 
     <biome name="city">
-        <spawn maxcount="6" respawndelay="0.5" time="Day" entitygroup="ZombiesAll" />
+        <spawn maxcount="8" respawndelay="0.5" time="Day" entitygroup="ZombiesAll" />
         <spawn maxcount="10" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
 		<spawn maxcount="1" respawndelay="1" time="Any" entitygroup="ZombieDogGroup" />
     </biome>
 
     <biome name="city_wasteland">
-      <spawn maxcount="6" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
+      <spawn maxcount="8" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
       <spawn maxcount="3" respawndelay="1" time="Any" entitygroup="ZombiesBoss" />
       <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombiesWastelandNight" />
       <spawn maxcount="1" respawndelay="1" time="Any" entitygroup="EnemyAnimalsWasteland" />
     </biome>
 
     <biome name="wasteland_hub">
-      <spawn maxcount="5" respawndelay="1" time="Day" entitygroup="ZombiesWasteland" />
+      <spawn maxcount="8" respawndelay="1" time="Day" entitygroup="ZombiesWasteland" />
       <spawn maxcount="10" respawndelay="1" time="Night" entitygroup="ZombiesWastelandNight" />
 	  <spawn maxcount="2" respawndelay="1" time="Any" entitygroup="EnemyAnimalsWasteland" />
     </biome>
@@ -34,12 +34,12 @@
     
     <biome name="forest">
         <!-- Standard Zoms -->
-        <spawn maxcount="8" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
+        <spawn maxcount="10" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
         <spawn maxcount="3" respawndelay="1" time="Day" entitygroup="SnowZombies" />
         <spawn maxcount="2" respawndelay="1" time="Day" entitygroup="ZombiesWasteland" />
         <spawn maxcount="1" respawndelay="4" time="Day"   entitygroup="ZombieSoldierGroup" />
         <!-- Night Zoms -->
-        <spawn maxcount="13" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
+        <spawn maxcount="15" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombiesBoss" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombieBadassGroup" />
         <!-- Enemy Animals -->
@@ -59,12 +59,12 @@
     
     <biome name="pine_forest">
         <!-- Standard Zoms -->
-        <spawn maxcount="8" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
+        <spawn maxcount="10" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
         <spawn maxcount="3" respawndelay="1" time="Day" entitygroup="SnowZombies" />
         <spawn maxcount="2" respawndelay="1" time="Day" entitygroup="ZombiesWasteland" />
         <spawn maxcount="1" respawndelay="4" time="Day"   entitygroup="ZombieSoldierGroup" />
         <!-- Night Zoms -->
-        <spawn maxcount="13" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
+        <spawn maxcount="15" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombiesBoss" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombieBadassGroup" />
         <!-- Enemy Animals -->
@@ -84,12 +84,12 @@
 
     <biome name="plains">
         <!-- Standard Zoms -->
-        <spawn maxcount="8" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
+        <spawn maxcount="10" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
         <spawn maxcount="3" respawndelay="1" time="Day" entitygroup="SnowZombies" />
         <spawn maxcount="2" respawndelay="1" time="Day" entitygroup="ZombiesWasteland" />
         <spawn maxcount="1" respawndelay="4" time="Day"   entitygroup="ZombieSoldierGroup" />
         <!-- Night Zoms -->
-        <spawn maxcount="13" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
+        <spawn maxcount="15" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombiesBoss" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombieBadassGroup" />
         <!-- Enemy Animals -->
@@ -109,12 +109,12 @@
 
     <biome name="desert">
         <!-- Standard Zoms -->
-        <spawn maxcount="8" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
+        <spawn maxcount="10" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
         <spawn maxcount="3" respawndelay="1" time="Day" entitygroup="SnowZombies" />
         <spawn maxcount="2" respawndelay="1" time="Day" entitygroup="ZombiesWasteland" />
         <spawn maxcount="1" respawndelay="4" time="Day"   entitygroup="ZombieSoldierGroup" />
         <!-- Night Zoms -->
-        <spawn maxcount="13" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
+        <spawn maxcount="15" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombiesBoss" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombieBadassGroup" />
         <!-- Enemy Animals -->
@@ -134,12 +134,12 @@
 
     <biome name="wasteland">
         <!-- Standard Zoms -->
-        <spawn maxcount="8" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
+        <spawn maxcount="10" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
         <spawn maxcount="3" respawndelay="1" time="Day" entitygroup="SnowZombies" />
         <spawn maxcount="2" respawndelay="1" time="Day" entitygroup="ZombiesWasteland" />
         <spawn maxcount="1" respawndelay="4" time="Day"   entitygroup="ZombieSoldierGroup" />
         <!-- Night Zoms -->
-        <spawn maxcount="13" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
+        <spawn maxcount="15" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombiesBoss" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombieBadassGroup" />
         <!-- Enemy Animals -->
@@ -159,12 +159,12 @@
      
     <biome name="burnt_forest">
         <!-- Standard Zoms -->
-        <spawn maxcount="8" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
+        <spawn maxcount="10" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
         <spawn maxcount="3" respawndelay="1" time="Day" entitygroup="SnowZombies" />
         <spawn maxcount="2" respawndelay="1" time="Day" entitygroup="ZombiesWasteland" />
         <spawn maxcount="1" respawndelay="4" time="Day"   entitygroup="ZombieSoldierGroup" />
         <!-- Night Zoms -->
-        <spawn maxcount="13" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
+        <spawn maxcount="15" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombiesBoss" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombieBadassGroup" />
         <!-- Enemy Animals -->
@@ -185,12 +185,12 @@
 
     <biome name="snow">
         <!-- Standard Zoms -->
-        <spawn maxcount="8" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
+        <spawn maxcount="10" respawndelay="1" time="Day" entitygroup="ZombiesAll" />
         <spawn maxcount="3" respawndelay="1" time="Day" entitygroup="SnowZombies" />
         <spawn maxcount="2" respawndelay="1" time="Day" entitygroup="ZombiesWasteland" />
         <spawn maxcount="1" respawndelay="4" time="Day"   entitygroup="ZombieSoldierGroup" />
         <!-- Night Zoms -->
-        <spawn maxcount="13" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
+        <spawn maxcount="15" respawndelay="1" time="Night" entitygroup="ZombiesNight" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombiesBoss" />
         <spawn maxcount="1" respawndelay="1" time="Night" entitygroup="ZombieBadassGroup" />
         <!-- Enemy Animals -->
