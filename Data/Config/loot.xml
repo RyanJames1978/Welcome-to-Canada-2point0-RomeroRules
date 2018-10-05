@@ -2479,8 +2479,8 @@
 <lootgroup name="rjstarterloot" count="all">
     <item name="gunPistol" count="1"/>
     <item name="gunHuntingRifle" count="1"/>
-    <item name="762mmBullet" count="100"/>
-    <item name="9mmBullet" count="50"/>
+    <item name="762mmBullet" count="200"/>
+    <item name="9mmBullet" count="150"/>
     <item name="workbenchBook"/>
 	<item name="bladeSmithingBook"/>
     <item name="emptyJar" count="10"/>
