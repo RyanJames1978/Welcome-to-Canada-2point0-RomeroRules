@@ -21,11 +21,9 @@
 			<relationship name="*" value="neutral"/>
 		</faction>
 		<faction name="animals">
-		   <relationship name="undead" value="hate"/>
 			<relationship name="*" value="dislike"/>
 		</faction>
 		<faction name="undead">
-		    <relationship name="animals" value="dislike"/>
 			<relationship name="bandits" value="hate"/>
 			<relationship name="*" value="hate"/>
 		</faction>
