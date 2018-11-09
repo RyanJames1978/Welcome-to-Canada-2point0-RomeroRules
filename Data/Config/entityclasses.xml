@@ -197,7 +197,6 @@
 	<property name="HandItem" value="handZombieCop"/>
 	<property name="ExperienceGain" value="3429"/>
 	<property name="LootListOnDeath" value="61"/>
-	<property name="HeadDismemberThreshold" value="0.2"/>
 	<property name="LowerLegDismemberThreshold" value="0.105"/>
 	<property name="UpperLegDismemberThreshold" value="0.105"/>
 	<property name="LowerArmDismemberThreshold" value="0.063"/>
@@ -234,7 +233,6 @@
 	<property name="KnockdownKneelRefillRate" value="0.045,0.045"/>
 	<property name="LegsExplosionDamageMultiplier" value=".85"/>
 	<property name="ArmsExplosionDamageMultiplier" value=".85"/>
-	<property name="HeadExplosionDamageMultiplier" value=".85"/>
 	<property name="ChestExplosionDamageMultiplier" value=".85"/>
 	<drop event="Harvest" name="rottingFlesh" tool_category="Butcher" count="0"/>
 </entity_class>
